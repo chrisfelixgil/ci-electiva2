@@ -12,10 +12,10 @@ Tarea de la materia de electiva impartida por el profesor **Elvys Cruz**.
 ## 📸 Capturas de Pantalla
 A continuación, se muestran capturas de pantalla de los requisitos de la tarea:
 
-1. ![Captura 1](/img/print1.png)
-2. ![Captura 2](/img/print2.png)
-3. ![Captura 3](/img/print3.png)
-4. ![Captura 4](/img/print4.png)
+1. -----------------------------![Captura 1](/img/print1.png)
+2. -----------------------------![Captura 2](/img/print2.png)
+3. -----------------------------![Captura 3](/img/print3.png)
+4. -----------------------------![Captura 4](/img/print4.png)
 
 ## 🚀 Tecnologías Utilizadas
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
