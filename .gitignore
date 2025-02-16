@@ -1,0 +1,22 @@
+# Carpetas de compilación y dependencias
+bin/
+obj/
+TestResults/
+
+# Archivos de configuración de usuario en Visual Studio
+.vscode/
+*.vs/
+
+# Configuración específica de Visual Studio
+*.suo
+*.user
+*.dbmdl
+*.sln.docstates
+
+# Archivos de lock y cache de NuGet
+*.lock.json
+.nuget/
+packages/
+
+# Archivos de log y temporales
+*.log
